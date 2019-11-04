@@ -11,7 +11,7 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
-        path: "projects/*/.md",
+        path: "projects/**/*.md",
         typeName: "ProjectPost",
         resolveAbsolutePaths: true,
         remark: {

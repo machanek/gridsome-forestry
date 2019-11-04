@@ -1,9 +1,9 @@
 ---
-date: 2019-05-16
+date: 2019-05-17
 year: 2019
 title: Wizyty z naszymi dziećmi u specjalistów
 category: Identity
-thumbnail: "/uploads/wspierajmy oddzialy ortopedyczne.jpg"
+thumbnail: "/uploads/wspierajmy-oddzialy-ortopedyczne.jpg"
 categories:
 - lekarz
 - medycyna
