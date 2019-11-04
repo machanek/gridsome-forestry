@@ -32,7 +32,7 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Anna Chrobak
   label: Author
   default: Anna Chrobak
 pages:
