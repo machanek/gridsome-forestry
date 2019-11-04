@@ -34,7 +34,7 @@ fields:
     options:
     - Nichlas W. Andersen
   label: Author
-  default: Nichlas W. Andersen
+  default: Anna Chrobak
 pages:
 - journal/wszystko-to-co-mam.md
 - journal/macos-development-environment.md

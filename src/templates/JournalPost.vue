@@ -7,16 +7,16 @@
           <h1 v-html="$page.post.title" class="journal-title" />
           <div class="journal-meta">
             <div class="journal-author">
-              <span class="label">Author</span>
+              <span class="label">Autor</span>
               <span class="author-name" v-text="$page.post.author" />
             </div>
             <div class="journal-date">
-              <span class="label">Date</span>
+              <span class="label">Opublikowano</span>
               <div v-text="$page.post.date"/>
             </div>
             <div class="journal-time">
-              <span class="label">Time</span>
-              <span>{{ $page.post.timeToRead }} min read</span>
+              <span class="label">Czas</span>
+              <span>{{ $page.post.timeToRead }} minuta</span>
             </div>
           </div>          
         </div>
@@ -33,7 +33,7 @@ query JournalPost ($path: String!) {
   post: journalPost (path: $path) {
     title
     author
-    date (format: "D. MMMM YYYY")
+    date (format: "D. MMMM YYYY", locale: "pl")
     timeToRead
     content
   }

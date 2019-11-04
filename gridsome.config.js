@@ -2,9 +2,9 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
-  host: "0.0.0.0",
+  siteName: "Dieta Medycyna Zdrowie Anna Chrobak",
+  siteUrl: `https://vital-platinum.pl`,
+  host: "localhost",
   titleTemplate: "%s - NWA",
   siteDescription: "Creative technologist",
   plugins: [
