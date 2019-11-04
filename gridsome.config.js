@@ -9,7 +9,10 @@ module.exports = {
   siteDescription: "Creative technologist",
   plugins: [
     {
-      u
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "projects/*/.md",
+        typeName: "ProjectPost",
         resolveAbsolutePaths: true,
         remark: {
           externalLinksTarget: "_blank",
