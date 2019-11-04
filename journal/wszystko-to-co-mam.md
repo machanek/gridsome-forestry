@@ -1,6 +1,6 @@
 ---
 date: 2019-11-03
-author: Nichlas W. Andersen
+author: Anna Chrobak
 title: Wszystko to co mam
 excerpt: W tym poście napiszę o wszystkim co mam
 
