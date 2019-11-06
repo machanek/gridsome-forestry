@@ -5,8 +5,8 @@ module.exports = {
   siteName: "Dieta Medycyna Zdrowie Anna Chrobak",
   siteUrl: `https://vital-platinum.pl`,
   host: "localhost",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s",
+  siteDescription: "Kreatywnie o medycynie i zdrowiu",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
