@@ -5,6 +5,6 @@ title: Wszystko to co mam
 excerpt: W tym poście napiszę o wszystkim co mam
 
 ---
-testuje
+nanoszę zmianę po rekonfiguracji
 
 ![](/uploads/0o1a8847-2694.jpg)
