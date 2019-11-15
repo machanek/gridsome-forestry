@@ -36,5 +36,6 @@ fields:
   label: Author
   default: Anna Chrobak
 pages:
+- journal/choroba-cywilizacyjna-ból-kregosłupa.md
 - journal/wszystko-to-co-mam.md
 - journal/macos-development-environment.md
