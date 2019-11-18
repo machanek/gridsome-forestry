@@ -36,5 +36,6 @@ fields:
   label: Author
   default: Anna Chrobak
 pages:
+- journal/kiedy-sięgnąć-po-pomoc.md
 - journal/wszystko-to-co-mam.md
 - journal/choroba-cywilizacyjna-ból-kregosłupa.md
