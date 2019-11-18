@@ -22,6 +22,7 @@
         </div>
 
         <JournalContent :content="$page.post.content" />
+        <vue-disqus shortname="vital-platinum" :identifier="$page.post.title"></vue-disqus>
 
       </div>
     </div>
