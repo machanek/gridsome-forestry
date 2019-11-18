@@ -19,10 +19,10 @@ p {
     font-size: 1.15rem;
 }
 h2 {
-    font-size: 2rem;
+    font-size: 1.6rem;
 }
 h3 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 h4, h5, h6 {
     font-size: 1.15rem;
