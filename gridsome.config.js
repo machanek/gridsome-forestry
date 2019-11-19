@@ -16,7 +16,7 @@ module.exports = {
         resolveAbsolutePaths: true,
         remark: {
           externalLinksTarget: "_blank",
-          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
+          externalLinksRel: ["dofollow", "noopener", "referrer"]
         }
       }
     },
@@ -28,7 +28,7 @@ module.exports = {
         resolveAbsolutePaths: true,
         remark: {
           externalLinksTarget: "_blank",
-          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
+          externalLinksRel: ["dofollow", "noopener", "referrer"]
         }
       }
     },
