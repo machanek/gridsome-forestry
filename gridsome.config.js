@@ -31,6 +31,27 @@ module.exports = {
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
         }
       }
+    },
+    {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+        cacheTime: 600000, // default
+        exclude: ['/exclude-me'],
+        config: {
+          '/journal/*': {
+            changefreq: 'weekly',
+            priority: 0.5
+          },
+		  '/projects/*': {
+            changefreq: 'weekly',
+            priority: 0.5
+          },
+          '/contact': {
+            changefreq: 'monthly',
+            priority: 0.7
+          }
+        }
+      }
     }
   ],
   transformers: {
