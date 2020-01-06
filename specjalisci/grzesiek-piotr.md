@@ -1,4 +1,4 @@
---
+---
 imie: "Adam"
 nazwisko: "Machanek"
 
