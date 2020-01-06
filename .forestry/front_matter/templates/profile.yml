@@ -1,4 +1,11 @@
 ---
 label: Profile
 hide_body: false
-fields: []
+fields:
+- name: test
+  type: blocks
+  label: Test
+  template_types: []
+  config:
+    min: 
+    max: 
