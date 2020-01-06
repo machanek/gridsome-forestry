@@ -24,5 +24,3 @@ Zabieg ten odbywa się w temperaturze około 45 stopni C. Dzięki temu nie docho
 Wskutek tego działania obniża się ciśnienie wewnątrz dysku i następuje wycofanie się wypukliny. Zazwyczaj zabieg trwa około 40 minut, zaś kilka godzin po nim pacjent może wrócić do domu. W ciągu pierwszych dni czasami u pacjentów pojawia się ból w miejscu nakłucia. Można wtedy stosować niesteroidowe leki przeciwbólowe.
 
 Zasadnicza poprawa rozpoczyna się zazwyczaj w ciągu dwóch tygodni po zabiegu. Następnie zaleca się rehabilitację. Ważna jest tutaj aktywność fizyczna, ale dobór odpowiednich ćwiczeń należy skonsultować z lekarzem. Powikłania po tego rodzaju zabiegu zdarzają się rzadko.
-
-[google](https://gogole.pl "google")
