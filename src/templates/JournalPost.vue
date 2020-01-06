@@ -58,7 +58,7 @@ export default {
 
 <style scoped>
 .journal-container {
-  max-width: 840px;
+  max-width: 1024px;
 }
 .journal-header {
   padding: 2rem 0 4rem 0;
