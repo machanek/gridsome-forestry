@@ -13,7 +13,7 @@ Co powinno nas zaniepokoić i skłonić do wizyty u lekarza ? A więc: obecnoś�
 
 ## Jak diagnozować jelito grube ?
 
-Jak odbywa się badanie jelita grubego ? W przypadku dolegliwości ze strony jelita grubego badanie odbywa się na kilka sposobów. Jako pierwsze jest zazwyczaj badanie palcem przez odbytnicę. Jest to podstawowa i prosta metoda diagnostyczna. I oczywiście potrzebna, dlatego zawsze stosowana podczas pierwszego badania. Lekarz w ten sposób bada stan ścian jelita grubego. Następnym dużo bardziej zaawansowanym i wiarygodnym badaniem jest kolonoskopia. Polega ona na tym, że lekarz za pomocą endoskopu ogląda jelito grube na całej jego długości. Może również przy okazji pobrać próbkę tkanki do badania.
+Jak odbywa się badanie jelita grubego ? W przypadku dolegliwości ze strony jelita grubego badanie odbywa się na kilka sposobów. Jako pierwsze jest zazwyczaj badanie palcem przez odbytnicę. Jest to podstawowa i prosta metoda diagnostyczna. I oczywiście potrzebna, dlatego zawsze stosowana podczas pierwszego badania. Lekarz w ten sposób bada stan ścian jelita grubego. Następnym dużo bardziej zaawansowanym i wiarygodnym badaniem **jest kolonoskopia**. Polega ona na tym, że lekarz za pomocą endoskopu ogląda jelito grube na całej jego długości. Może również przy okazji pobrać próbkę tkanki do badania.
 
 ![](/uploads/rak-jelita-grubego-jak-diagnozowac.jpg)
 
